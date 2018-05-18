@@ -1,0 +1,19 @@
+<Thermometer>
+<Number RegType="4" RegAddr="2108" Unit="" Max="1000.0" Min="0.0"/>
+<Number RegType="4" RegAddr="1999" Unit="" Max="120.0" Min="0.0"/>
+<Number RegType="4" RegAddr="2110" Unit="" Max="100.0" Min="-30.0"/>
+<Number RegType="4" RegAddr="1999" Unit="" Max="35.0" Min="-30.0"/>
+<Number RegType="4" RegAddr="7005" Unit="" Max="20.0" Min="-40.0"/>
+<Number RegType="4" RegAddr="1999" Unit="" Max="70.0" Min="0.0"/>
+<Number RegType="4" RegAddr="9001" Unit="" Max="70.0" Min="0.0"/>
+<Number RegType="4" RegAddr="9003" Unit="" Max="70.0" Min="0.0"/>
+<Number RegType="4" RegAddr="7010" Unit="" Max="60.0" Min="-10.0"/>
+<Number RegType="4" RegAddr="7011" Unit="" Max="20.0" Min="-20.0"/>
+<Number RegType="4" RegAddr="1999" Unit="" Max="5.0" Min="-5.0"/>
+<Number RegType="4" RegAddr="7027" Unit="" Max="20000.0" Min="0.0"/>
+<Number RegType="4" RegAddr="7014" Unit="" Max="30.0" Min="0.0"/>
+<Number RegType="4" RegAddr="7016" Unit="" Max="220.0" Min="0.0"/>
+<Number RegType="4" RegAddr="7017" Unit="" Max="200.0" Min="0.0"/>
+<Number RegType="4" RegAddr="7018" Unit="" Max="220.0" Min="0.0"/>
+<Number RegType="4" RegAddr="7006" Unit="" Max="10.0" Min="0.0"/>
+</Thermometer>

@@ -1,0 +1,6 @@
+<Meter>
+<Number RegType="4" RegAddr="7009" Unit="%" Max="100.0" Min="0.0"/>
+<Number RegType="4" RegAddr="7008" Unit="Hz" Max="100.0" Min="0.0"/>
+<Number RegType="4" RegAddr="7007" Unit="Hz" Max="100.0" Min="0.0"/>
+<Number RegType="4" RegAddr="1999" Unit="S" Max="480.0" Min="0.0"/>
+</Meter>

@@ -1,0 +1,6 @@
+<Meter>
+<Number RegType="4" RegAddr="7009"/>
+<Number RegType="4" RegAddr="7007"/>
+<Number RegType="4" RegAddr="7012"/>
+<Number RegType="4" RegAddr="7031"/>
+</Meter>

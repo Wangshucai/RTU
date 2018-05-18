@@ -1,0 +1,19 @@
+<Thermometer>
+<Number RegType="4" RegAddr="7001"/>
+<Number RegType="4" RegAddr="7002"/>
+<Number RegType="4" RegAddr="7027"/>
+<Number RegType="4" RegAddr="7004"/>
+<Number RegType="4" RegAddr="9009"/>
+<Number RegType="4" RegAddr="9001"/>
+<Number RegType="4" RegAddr="9002"/>
+<Number RegType="4" RegAddr="9003"/>
+<Number RegType="4" RegAddr="7013"/>
+<Number RegType="4" RegAddr="7011"/>
+<Number RegType="4" RegAddr="7010"/>
+<Number RegType="4" RegAddr="7005"/>
+<Number RegType="4" RegAddr="7015"/>
+<Number RegType="4" RegAddr="7003"/>
+<Number RegType="4" RegAddr="7029"/>
+<Number RegType="4" RegAddr="7030"/>
+<Number RegType="4" RegAddr="7015"/>
+</Thermometer>

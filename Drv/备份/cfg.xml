@@ -1,0 +1,44 @@
+﻿<Table-0X>
+
+</Table-0X>
+<Table-1X>
+
+</Table-1X>
+<Table-3X>
+
+</Table-3X>
+<Table-4X>
+<Row Name="设定输出机械频率"  	Address="4X1999"  Size="USHORT"  Scale="1"/>
+<Row Name="开关机状态"  	Address="4X2000"  Size="USHORT"  Scale="1"/>
+<Row Name="NA"  		Address="4X2001"  Size="USHORT"  Scale="1"/>
+<Row Name="NA"  		Address="4X2002"  Size="USHORT"  Scale="1"/>
+<Row Name="压缩机型号设置"  	Address="4X2003"  Size="USHORT"  Scale="1"/>
+<Row Name="直流风机转速设置1"  	Address="4X2004"  Size="USHORT"  Scale="1"/>
+<Row Name="直流风机转速设置2"  	Address="4X2005"  Size="USHORT"  Scale="1"/>
+
+
+<Row Name="驱动器工作状态"  	Address="4X2099"  Size="USHORT"  Scale="1"/>
+<Row Name="停机故障代码1"  	Address="4X2100"  Size="USHORT"  Scale="1"/>
+<Row Name="报警故障代码"  	Address="4X2101"  Size="USHORT"  Scale="1"/>
+<Row Name="压缩机运行机械频率"  Address="4X2102"  Size="USHORT"  Scale="1"/>
+<Row Name="驱动器允许最大频率"  Address="4X2103"  Size="USHORT"  Scale="1"/>
+<Row Name="IPM过温停机保护值" 	Address="4X2104"  Size="USHORT"  Scale="1"/>
+<Row Name="AC输入电压值" 	Address="4X2105"  Size="USHORT"  Scale="1"/>
+<Row Name="AC输入电流值"  	Address="4X2106"  Size="USHORT"  Scale="1"/>
+<Row Name="压缩机相电流值"  	Address="4X2107"  Size="USHORT"  Scale="1"/>
+<Row Name="母线电压值"          Address="4X2108"  Size="USHORT"  Scale="1"/>
+<Row Name="停机故障代码2"       Address="4X2109"  Size="USHORT"  Scale="1"/>
+
+<Row Name="IPM温度"             Address="4X2110"  Size="USHORT"  Scale="1"/>
+<Row Name="压缩机累计运行时间"  Address="4X2111"  Size="USHORT"  Scale="1"/>
+<Row Name="NA"       		Address="4X2112"  Size="USHORT"  Scale="1"/>
+<Row Name="NA"  		Address="4X2113"  Size="USHORT"  Scale="1"/>
+<Row Name="NA"  		Address="4X2114"  Size="USHORT"  Scale="1"/>
+<Row Name="NA"  		Address="4X2115"  Size="USHORT"  Scale="1"/>
+<Row Name="NA" 	 		Address="4X2116"  Size="USHORT"  Scale="1"/>
+<Row Name="NA"  		Address="4X2117"  Size="USHORT"  Scale="1"/>
+<Row Name="风机1速度反馈"  	Address="4X2118"  Size="USHORT"  Scale="1"/>
+<Row Name="风机2速度反馈"  	Address="4X2119"  Size="USHORT"  Scale="1"/>
+<Row Name="压缩机故障代码"  	Address="4X2120"  Size="USHORT"  Scale="1"/>
+
+</Table-4X>

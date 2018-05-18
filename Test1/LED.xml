@@ -1,0 +1,14 @@
+<LED>
+<Number RegType="1" RegAddr="7001"/>
+<Number RegType="1" RegAddr="7002"/>
+<Number RegType="1" RegAddr="7006"/>
+<Number RegType="1" RegAddr="7007"/>
+<Number RegType="1" RegAddr="7009"/>
+<Number RegType="1" RegAddr="7010"/>
+<Number RegType="1" RegAddr="7017"/>
+<Number RegType="1" RegAddr="7018"/>
+<Number RegType="1" RegAddr="9001"/>
+<Number RegType="1" RegAddr="9002"/>
+<Number RegType="1" RegAddr="7030"/>
+<Number RegType="1" RegAddr="7031"/>
+</LED>

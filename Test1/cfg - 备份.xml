@@ -1,0 +1,208 @@
+﻿<Table-0X>
+<Row Name="压缩机加热带"              Address="0X7001"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="冷凝风机高速"              Address="0X7002"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="冷凝风机中速"              Address="0X7003"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="冷凝风机低速"              Address="0X7004"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="定速压缩机"                Address="0X7005"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="经济电磁阀"                Address="0X7006"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="底盘电加热"                Address="0X7007"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="DO8"                       Address="0X7008"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="四通阀1"                   Address="0X7009"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="液管电磁阀"                Address="0X7010"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="故障输出"                  Address="0X7011"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="DO12"                      Address="0X7012"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="预留"                      Address="0X7013"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="预留"                      Address="0X7014"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="预留"                      Address="0X7015"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="预留"                      Address="0X7016"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="高压保护"                  Address="0X7017"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="低压保护"                  Address="0X7018"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="排气温度过高保护"          Address="0X7019"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="吸气温度传感器故障"        Address="0X7020"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="化霜温度传感器故障"        Address="0X7021"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="排气温度传感器故障"        Address="0X7022"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="低压传感器故障"            Address="0X7023"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="室外温度传感器故障"        Address="0X7024"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="IPM故障"                   Address="0X7025"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="压缩机驱动故障"            Address="0X7026"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="压缩机过电流（驱动）"      Address="0X7027"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="IPM过温停机（驱动）"       Address="0X7028"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="PFC故障"                   Address="0X7029"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="直流母线过压"              Address="0X7030"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="直流母线欠压"              Address="0X7031"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="AC输入过欠电压（驱动）"    Address="0X7032"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="AC输入过电流（驱动）"      Address="0X7033"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="与驱动板的通讯故障"        Address="0X7034"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="与IDU的通讯故障"           Address="0X7035"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="15V过欠压"                 Address="0X7036"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="失步故障"                  Address="0X7037"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="缺相故障"                  Address="0X7038"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="IPM硬件故障"               Address="0X7039"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="电流检测电路故障"          Address="0X7040"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="化霜"                      Address="0X7041"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="EEP故障"                   Address="0X7042"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name=AC过压（主板）              Address="0X7043"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name=AC欠压（主板）              Address="0X7044"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name=IPM高温（主板）             Address="0X7045"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name=压缩机过流（主板）          Address="0X7046"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name=低压防冻结                  Address="0X7047"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name=AC过流（主板）              Address="0X7048"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+
+<Row Name="水泵状态"                  Address="0X9001"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="电加热状态"                Address="0X9002"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="室内回水温度传感器故障"    Address="0X9003"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="室内出水温度传感器故障"    Address="0X9004"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="室内冷媒进温度传感器故障"  Address="0X9005"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="室内冷媒出温度传感器故障"  Address="0X9006"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="水流量保护"                Address="0X9007"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="室内防冻保护"              Address="0X9008"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="电加热温度保护"            Address="0X9009"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="冬季防冻保护"              Address="0X9010"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+
+</Table-0X>
+
+<Table-1X>
+
+</Table-1X>
+
+<Table-3X>
+
+</Table-3X>
+
+<Table-4X>
+<Row Name="软件版本号字符串1"   Address="4X0001"  Size="USHORT"  Unit="-"  Scale="1"  Max="65535"  Min="0"/>
+<Row Name="软件版本号字符串2"   Address="4X0002"  Size="USHORT"  Unit="-"  Scale="1"  Max="65535"  Min="0"/>
+<Row Name="软件版本号字符串3"   Address="4X0003"  Size="USHORT"  Unit="-"  Scale="1"  Max="65535"  Min="0"/>
+<Row Name="软件版本号字符串4"   Address="4X0004"  Size="USHORT"  Unit="-"  Scale="1"  Max="65535"  Min="0"/>
+<Row Name="软件版本号字符串5"   Address="4X0005"  Size="USHORT"  Unit="-"  Scale="1"  Max="65535"  Min="0"/>
+<Row Name="硬件版本号字符串1"   Address="4X0006"  Size="USHORT"  Unit="-"  Scale="1"  Max="65535"  Min="0"/>
+<Row Name="硬件版本号字符串2"   Address="4X0007"  Size="USHORT"  Unit="-"  Scale="1"  Max="65535"  Min="0"/>
+<Row Name="硬件版本号字符串3"   Address="4X0008"  Size="USHORT"  Unit="-"  Scale="1"  Max="65535"  Min="0"/>
+<Row Name="硬件版本号字符串4"   Address="4X0009"  Size="USHORT"  Unit="-"  Scale="1"  Max="65535"  Min="0"/>
+<Row Name="硬件版本号字符串5"   Address="4X0010"  Size="USHORT"  Unit="-"  Scale="1"  Max="65535"  Min="0"/>
+
+<Row Name="软件版本号字符串1"   Address="4X1001"  Size="USHORT"  Unit="-"  Scale="1"  Max="65535"  Min="0"/>
+<Row Name="软件版本号字符串2"   Address="4X1002"  Size="USHORT"  Unit="-"  Scale="1"  Max="65535"  Min="0"/>
+<Row Name="软件版本号字符串3"   Address="4X1003"  Size="USHORT"  Unit="-"  Scale="1"  Max="65535"  Min="0"/>
+<Row Name="软件版本号字符串4"   Address="4X1004"  Size="USHORT"  Unit="-"  Scale="1"  Max="65535"  Min="0"/>
+<Row Name="软件版本号字符串5"   Address="4X1005"  Size="USHORT"  Unit="-"  Scale="1"  Max="65535"  Min="0"/>
+<Row Name="硬件版本号字符串1"   Address="4X1006"  Size="USHORT"  Unit="-"  Scale="1"  Max="65535"  Min="0"/>
+<Row Name="硬件版本号字符串2"   Address="4X1007"  Size="USHORT"  Unit="-"  Scale="1"  Max="65535"  Min="0"/>
+<Row Name="硬件版本号字符串3"   Address="4X1008"  Size="USHORT"  Unit="-"  Scale="1"  Max="65535"  Min="0"/>
+<Row Name="硬件版本号字符串4"   Address="4X1009"  Size="USHORT"  Unit="-"  Scale="1"  Max="65535"  Min="0"/>
+<Row Name="硬件版本号字符串5"   Address="4X1010"  Size="USHORT"  Unit="-"  Scale="1"  Max="65535"  Min="0"/>
+
+<Row Name="状态模式"            Address="4X2001"  Size="USHORT"  Unit="-"  Scale="1"  Max="16"  Min="1"/>
+<Row Name="水泵控制"            Address="4X2002"  Size="UCHAR"   Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="电加热"              Address="4X2003"  Size="UCHAR"   Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="液旁通电磁阀"        Address="4X2004"  Size="UCHAR"   Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="经济器电磁阀"        Address="4X2005"  Size="UCHAR"   Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="底盘电加热带"        Address="4X2006"  Size="UCHAR"   Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="外风机控制"          Address="4X2007"  Size="UCHAR"   Unit="-"  Scale="1"  Max="2"  Min="0"/>
+<Row Name="四通阀"              Address="4X2008"  Size="UCHAR"   Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="压缩机频率"          Address="4X2009"  Size="UCHAR"   Unit="Hz"  Scale="1"  Max="120"  Min="0"/>
+<Row Name="EEV开度"             Address="4X2010"  Size="USHORT"  Unit="Step"  Scale="1"  Max="480"  Min="0"/>
+<Row Name="测试模式"            Address="4X2011"  Size="UCHAR"   Unit="-"  Scale="1"  Max="2"  Min="1"/>
+
+<Row Name="开/关机"             Address="4X3001"  Size="UCHAR"   Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="设定模式"            Address="4X3002"  Size="UCHAR"   Unit="-"  Scale="1"  Max="2"  Min="1"/>
+<Row Name="制冷设定温度"        Address="4X3003"  Size="FLOAT"   Unit="℃"  Scale="0.1"  Max="15"  Min="1"/>
+<Row Name="制热设定温度"        Address="4X3004"  Size="FLOAT"   Unit="℃"  Scale="0.1"  Max="55"  Min="30"/>
+<Row Name="来电自启动"          Address="4X3005"  Size="UCHAR"   Unit=""  Scale="1"  Max="1"  Min="0"/>
+
+<Row Name="化霜设定温度"            Address="4X4001"  Size="FLOAT"   Unit="℃"  Scale="0.1"  Max="10"  Min="-10"/>
+<Row Name="化霜压缩机频率"          Address="4X4002"  Size="UCHAR"   Unit="Hz"  Scale="1"  Max="120"  Min="30"/>
+<Row Name="化霜EEV1"                Address="4X4003"  Size="USHORT"  Unit="Step"  Scale="1"  Max="480"  Min="80"/>
+<Row Name="化霜EEV2"                Address="4X4004"  Size="USHORT"  Unit="Step"  Scale="1"  Max="480"  Min="80"/>
+<Row Name="化霜EEV3"                Address="4X4005"  Size="USHORT"  Unit="Step"  Scale="1"  Max="480"  Min="80"/>
+<Row Name="化霜最小运行时间"        Address="4X4006"  Size="UCHAR"   Unit="min"  Scale="1"  Max="5"  Min="1"/>
+<Row Name="化霜最大运行时间"        Address="4X4007"  Size="UCHAR"   Unit="min"  Scale="1"  Max="15"  Min="7"/>
+<Row Name="产线测试压缩机频率"      Address="4X4008"  Size="UCHAR"   Unit="Hz"  Scale="1"  Max="80"  Min="20"/>
+<Row Name="产线测试膨胀阀步数"      Address="4X4009"  Size="USHORT"  Unit="step"  Scale="1"  Max="480"  Min="80"/>
+<Row Name="电子膨胀阀调节周期"      Address="4X4010"  Size="UCHAR"   Unit="sec"  Scale="1"  Max="60"  Min="20"/>
+<Row Name="压缩机最小停机时间"      Address="4X4011"  Size="UCHAR"   Unit="min"  Scale="1"  Max="5"  Min="1"/>
+<Row Name="压缩机最小运行时间"      Address="4X4012"  Size="UCHAR"   Unit="min"  Scale="1"  Max="5"  Min="1"/>
+<Row Name="压缩机目标频率计算周期"  Address="4X4013"  Size="USHORT"  Unit="sec"  Scale="1"  Max="300"  Min="10"/>
+<Row Name="回油频率"                Address="4X4014"  Size="UCHAR"   Unit="hz"   Scale="1"  Max="80"  Min="30"/>
+<Row Name="回油时间"                Address="4X4015"  Size="UCHAR"   Unit="min"  Scale="1"  Max="10"  Min="1"/>
+<Row Name="安装测试时间"            Address="4X4016"  Size="USHORT"  Unit="min"  Scale="1"  Max="999"  Min="0"/>
+<Row Name="手动调机时间"            Address="4X4017"  Size="USHORT"  Unit="min"  Scale="1"  Max="999"  Min="0"/>
+<Row Name="产线测试时间"            Address="4X4018"  Size="USHORT"  Unit="min"  Scale="1"  Max="999"  Min="0"/>
+<Row Name="化霜系数"                Address="4X4019"  Size="FLOAT"   Unit="-"    Scale="0.1" Max="1"  Min="0"/>
+<Row Name=是否使用EEP2              Address="4X4020"  Size="UCHAR"   Unit="-"    Scale="0"  Max="1"  Min="0"/>
+
+<Row Name="制热共振点频率1"         Address="4X5001"  Size="UCHAR"  Unit="Hz"  Scale="1"  Max="120"  Min="15"/>
+<Row Name="制热共振点频率2"         Address="4X5002"  Size="UCHAR"  Unit="Hz"  Scale="1"  Max="120"  Min="15"/>
+<Row Name="制热共振点频率3"         Address="4X5003"  Size="UCHAR"  Unit="Hz"  Scale="1"  Max="120"  Min="15"/>
+<Row Name="制热共振点频率4"         Address="4X5004"  Size="UCHAR"  Unit="Hz"  Scale="1"  Max="120"  Min="15"/>
+<Row Name="制热共振点频率5"         Address="4X5005"  Size="UCHAR"  Unit="Hz"  Scale="1"  Max="120"  Min="15"/>
+<Row Name="制冷共振点频率1"         Address="4X5006"  Size="UCHAR"  Unit="Hz"  Scale="1"  Max="120"  Min="15"/>
+<Row Name="制冷共振点频率2"         Address="4X5007"  Size="UCHAR"  Unit="Hz"  Scale="1"  Max="120"  Min="15"/>
+<Row Name="制冷共振点频率3"         Address="4X5008"  Size="UCHAR"  Unit="Hz"  Scale="1"  Max="120"  Min="15"/>
+<Row Name="制冷共振点频率4"         Address="4X5009"  Size="UCHAR"  Unit="Hz"  Scale="1"  Max="120"  Min="15"/>
+<Row Name="制冷共振点频率5"         Address="4X5010"  Size="UCHAR"  Unit="Hz"  Scale="1"  Max="120"  Min="15"/>
+<Row Name="压缩机电流1"             Address="4X5011"  Size="FLOAT"  Unit="A"  Scale="0.1"  Max="46"  Min="15"/>
+<Row Name="压缩机电流2"             Address="4X5012"  Size="FLOAT"  Unit="A"  Scale="0.1"  Max="48"  Min="15"/>
+<Row Name="压缩机电流3"             Address="4X5013"  Size="FLOAT"  Unit="A"  Scale="0.1"  Max="50"  Min="15"/>
+<Row Name="IPM温度1"                Address="4X5014"  Size="FLOAT"  Unit="℃"  Scale="0.1"  Max="90"  Min="15"/>
+<Row Name="IPM温度2"                Address="4X5015"  Size="FLOAT"  Unit="℃"  Scale="0.1"  Max="93"  Min="15"/>
+<Row Name="IPM温度3"                Address="4X5016"  Size="FLOAT"  Unit="℃"  Scale="0.1"  Max="95"  Min="15"/>
+<Row Name="PFC电流1"                Address="4X5017"  Size="FLOAT"  Unit="A"  Scale="0.1"  Max="90"  Min="15"/>
+<Row Name="PFC电流2"                Address="4X5018"  Size="FLOAT"  Unit="A"  Scale="0.1"  Max="93"  Min="15"/>
+<Row Name="PFC电流3"                Address="4X5019"  Size="FLOAT"  Unit="A"  Scale="0.1"  Max="95"  Min="15"/>
+
+<Row Name="室外温度"          Address="4X7001"  Size="FLOAT"  Unit="℃"  Scale="0.1"  Max="70"  Min="-30"/>
+<Row Name="排气温度"          Address="4X7002"  Size="FLOAT"  Unit="℃"  Scale="0.1"  Max="130"  Min="-30"/>
+<Row Name="吸气温度"          Address="4X7003"  Size="FLOAT"  Unit="℃"  Scale="0.1"  Max="70"  Min="-30"/>
+<Row Name="化霜温度"          Address="4X7004"  Size="FLOAT"  Unit="℃"  Scale="0.1"  Max="70"  Min="-30"/>
+<Row Name="低压饱和温度"      Address="4X7005"  Size="FLOAT"  Unit="℃"  Scale="0.1"  Max="70"  Min="-40"/>
+<Row Name="型号"              Address="4X7006"  Size="UCHAR"  Unit="-"  Scale="1"  Max="6"  Min="3"/>
+<Row Name="实际频率"          Address="4X7007"  Size="UCHAR"  Unit="Hz"  Scale="1"  Max="120"  Min="0"/>
+<Row Name="目标频率"          Address="4X7008"  Size="UCHAR"  Unit="Hz"  Scale="1"  Max="120"  Min="0"/>
+<Row Name="计算能力"          Address="4X7009"  Size="UCHAR"  Unit="-"  Scale="1"  Max="100"  Min="0"/>
+<Row Name="排气过热度"        Address="4X7010"  Size="FLOAT"  Unit="℃"  Scale="0.1"  Max="100"  Min="-100"/>
+<Row Name="吸气过热度"        Address="4X7011"  Size="FLOAT"  Unit="℃"  Scale="0.1"  Max="100"  Min="-100"/>
+<Row Name="EEV步数"           Address="4X7012"  Size="USHORT"  Unit="Step"  Scale="1"  Max="480"  Min="0"/>
+<Row Name="故障状态"          Address="4X7013"  Size="UCHAR"  Unit="－"  Scale="1"  Max="16"  Min="0"/>
+<Row Name="压缩机电流"        Address="4X7014"  Size="FLOAT"  Unit="A"  Scale="0.1"  Max="100"  Min="0"/>
+<Row Name="AC电流　"          Address="4X7015"  Size="FLOAT"  Unit="A"  Scale="0.1"  Max="100"  Min="0"/>
+<Row Name="IPM温度"           Address="4X7016"  Size="FLOAT"  Unit="℃"  Scale="0.1"  Max="200"  Min="-30"/>
+<Row Name="PFC温度"           Address="4X7017"  Size="FLOAT"  Unit="℃"  Scale="0.1"  Max="120"  Min="-30"/>
+<Row Name="AC电压"            Address="4X7018"  Size="USHORT"  Unit="V"  Scale="1"  Max="400"  Min="0"/>
+<Row Name="排气保护等级"      Address="4X7019"  Size="UCHAR"  Unit="-"  Scale="1"  Max=""  Min=""/>
+<Row Name="压缩机保护等级"    Address="4X7020"  Size="UCHAR"  Unit="-"  Scale="1"  Max="3"  Min="0"/>
+<Row Name="IPM温度保护等级"   Address="4X7021"  Size="UCHAR"  Unit="-"  Scale="1"  Max="3"  Min="0"/>
+<Row Name="PFC温度保护等级"   Address="4X7022"  Size="UCHAR"  Unit="-"  Scale="1"  Max="3"  Min="0"/>
+<Row Name="AC电流保护等级"    Address="4X7023"  Size="UCHAR"  Unit="-"  Scale="1"  Max="3"  Min="0"/>
+<Row Name="Tn"                Address="4X7024"  Size="UCHAR"  Unit="min"  Scale="1"  Max="180"  Min="20"/>
+<Row Name="DI1的状态"         Address="4X7025"  Size="UCHAR"  Unit="-"  Scale="1"  Max="4"  Min="0"/>
+<Row Name="DI9的状态"         Address="4X7026"  Size="UCHAR"  Unit="-"  Scale="1"  Max="4"  Min="0"/>
+<Row Name="低压压力"          Address="4X7027"  Size="FLOAT"  Unit="Kpa"  Scale="0.1"  Max="3000"  Min="0"/>
+<Row Name=低压防冻保护等级    Address="4X7028"  Size="UCHAR"  Unit="-"  Scale="1"  Max="3"  Min="0"/>
+
+<Row Name="室内回水温度"      Address="4X9001"  Size="FLOAT"  Unit="℃"  Scale="0.1"  Max="70"  Min="-30"/>
+<Row Name="室内出水温度"      Address="4X9002"  Size="FLOAT"  Unit="℃"  Scale="0.1"  Max="70"  Min="-30"/>
+<Row Name="室内冷媒进温度"    Address="4X9003"  Size="FLOAT"  Unit="℃"  Scale="0.1"  Max="70"  Min="-30"/>
+<Row Name="室内冷媒出温度"    Address="4X9004"  Size="FLOAT"  Unit="℃"  Scale="0.1"  Max="70"  Min="-30"/>
+<Row Name="类型"              Address="4X9005"  Size="UCHAR"  Unit="-"  Scale="1"  Max="3"  Min="0"/>
+<Row Name="开/关机"           Address="4X9006"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="设定模式"          Address="4X9007"  Size="UCHAR"  Unit="-"  Scale="1"  Max="2"  Min="1"/>
+<Row Name="制冷设定温度"      Address="4X9008"  Size="USHORT"  Unit="℃"  Scale="0.1"  Max="15"  Min="2"/>
+<Row Name="制热设定温度"      Address="4X9009"  Size="USHORT"  Unit="℃"  Scale="0.1"  Max="55"  Min="30"/>
+
+<Row Name="B0：手动调机参数"  Address="4X8001"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+<Row Name="B0：线控器复位"    Address="4X8002"  Size="UCHAR"  Unit="-"  Scale="1"  Max="1"  Min="0"/>
+
+</Table-4X>
+
+
+
+
+
+
+
+
+
+
+
+
